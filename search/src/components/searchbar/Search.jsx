@@ -20,7 +20,7 @@ const url = `https://jsearch.p.rapidapi.com/search?query=${searchTerm}%20in%20${
     const options = {
       method: 'GET',
       headers: {
-        'x-rapidapi-key': '3778a616fdmsh3c51fa3bf7c68d2p102554jsn03e70fe6d47c',
+  'x-rapidapi-key': '9eeeb04221mshc27105283636e04p1609b7jsn13a54bc8b37e',
         'x-rapidapi-host': 'jsearch.p.rapidapi.com'
       }
     };
